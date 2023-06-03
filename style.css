@@ -261,10 +261,10 @@ td, th {
     nav{
         position: static;
     }
-    .caja, .principal, .mapa-contenido, .contenido-diferenciales, .video {
+    .caja, .principal, .contenedor-diferenciales, .lista-diferenciales,  .video {
         width: auto;
     }
-    .lista-diferenciales, .imagen-diferenciales{
+     .mapa-contenido, .imagen-diferenciales {
         width: 100%;
     }
 }
